@@ -1,4 +1,4 @@
-<img src="profile/rule-30.png" alt="Rule 30 cellular automaton" width="240" />
+<img src="rule-30.png" alt="Rule 30 cellular automaton" width="240" />
 
 # awesome.town
 
