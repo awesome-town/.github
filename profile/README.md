@@ -14,7 +14,8 @@ This is where the tools live.
 
 - **[awesome.town](https://github.com/awesome-town/awesome.town)** — the website (Next.js, deployed at [awesome.town](https://awesome.town))
 - **[canvas-mcp-node](https://github.com/awesome-town/canvas-mcp-node)** — FERPA-aware Canvas LMS MCP server with 30 tools and persistent per-course pseudonym maps
-- More to come — public MCPs and skills as I extract them from my own classroom
+- **[canvas-mcp-skills](https://github.com/awesome-town/canvas-mcp-skills)** — generic Claude skills for canvas-mcp — plan lessons, assessments, modules, and courses. Built at Franklin School, adaptable to any school.
+- More to come as I grow things out of the classroom
 
 ## Contact
 
